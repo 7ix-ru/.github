@@ -1,21 +1,21 @@
-# Добро пожаловать в нашу веб-студию!
+# Welcome to Our Web Studio!  
 
-Мы - команда творческих профессионалов, занимающихся разработкой качественных тем для WordPress и их продажей на специализированных площадках.
+We are a team of creative professionals specializing in developing high-quality WordPress themes and selling them on specialized marketplaces.
 
-## О нас
+## About Us
 
-Мы создаем стильные и функциональные темы для WordPress, которые помогают нашим клиентам выделиться в виртуальном пространстве. Наша команда учитывает уникальные потребности каждого клиента и создает темы, отвечающие их требованиям и ожиданиям.
+We create stylish and functional WordPress themes that help our clients stand out in the digital space. Our team considers the unique needs of each client and develops themes that meet their requirements and expectations.
 
-## Преимущества
+## Advantages
 
-- **Индивидуальный подход:** Мы стремимся к тому, чтобы каждый проект был уникален и отражал потребности клиента.
-- **Качество и надежность:** Наши темы проходят тщательное тестирование, чтобы гарантировать стабильную работу и совместимость с последними версиями WordPress.
-- **Поддержка и обновления:** Мы предоставляем надежную техническую поддержку и регулярные обновления тем для безопасности и функциональности.
+- **Personalized Approach:** We strive to make every project unique and tailored to the client's needs.
+- **Quality and Reliability:** Our themes undergo thorough testing to ensure stable performance and compatibility with the latest WordPress versions.
+- **Support and Updates:** We provide reliable technical support and regular updates to keep themes secure and functional.
 
-## Где нас найти
+## Where to Find Us
 
-Наши темы доступны для приобретения на различных специализированных платформах, а также на нашем [веб-сайте](https://7ix.ru).
+Our themes are available for purchase on various specialized platforms, as well as on our [website](https://7ix.ru).
 
-## Как связаться с нами
+## Contact Us
 
-Мы всегда готовы к сотрудничеству и новым проектам! Свяжитесь с нами, чтобы обсудить вашу идею или запросить индивидуальную разработку темы для вашего проекта.
+We are always open to collaboration and new projects! Get in touch with us to discuss your idea or request a custom theme development for your project.
